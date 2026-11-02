@@ -8,15 +8,15 @@ Open `index.html` in a modern browser.
 
 - Aim with your cursor; hold the left mouse button to fire.
 - Right-click, `P`, or `Esc` pauses the game.
-- On touch screens, tap and drag to aim and fire. Move side to side to steer the cannon.
-- Collect power-ups by moving the aim over them. Choose a run upgrade after each boss.
+- On touch screens, tap and drag to aim and fire. Mobile shots travel more slowly for easier tracking.
+- Choose one permanent run upgrade after defeating each boss.
 - Use **SOUND ON/OFF** in the header to mute or unmute. Audio starts after the first gameplay click or tap because browsers block autoplay.
 
 ## Features
 
-- Three alien types, side missions, combo multipliers, and near-miss bonuses.
+- Three alien types, combo multipliers, and near-miss bonuses.
 - A boss encounter every 10 kills, with a health bar and attack volleys.
-- Boss rewards, upgrade choices, target-practice rounds, and asteroid waves.
+- Boss rewards and six upgrade types: faster fire, plasma damage, extra barrels, hull repair, longer combos, and bonus score.
 - Personal-best shot-color unlocks, saved in the browser.
 - Original ambient music and game effects synthesized with Web Audio. No audio files or external music licenses are required.
 
